@@ -1,1 +1,1 @@
-## TA_session for ME455 in KAIST
+## TA_session (ME455 in KAIST)
